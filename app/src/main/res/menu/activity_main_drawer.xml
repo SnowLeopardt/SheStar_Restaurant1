@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/Inicio" />
+        <item
+            android:id="@+id/nav_comidadiaria"
+            android:icon="@drawable/baseline_all_inclusive_24"
+            android:title="@string/Comida_Diaria" />
+        <item
+            android:id="@+id/nav_favoritos"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:title="@string/Favoritos" />
+
+        <item
+            android:id="@+id/nav_Mi_Carrito"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/MiCarrito" />
+
+
+
+        <item
+            android:id="@+id/nav_ubicacion"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/Ubicacion" />
+
+    </group>
+</menu>

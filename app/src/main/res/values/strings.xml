@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SheStar Restaurant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="shestar_restaurant">SheStar Restaurant</string>
+    <string name="hello_explore_your_dream_food" />
+    <string name="sing_in">Sing in</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="nombre">nombre</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Email">Email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Resgistrate">Registrate</string>
+    <string name="Registrate">Registrate</string>
+    <string name="comida_diaria">comida diaria</string>
+    <string name="Comida_Diaria">Comida Diaria</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Favoritos">Favoritos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Mi_Carrito">Mi_Carrito</string>
+    <string name="MiCarrito">MiCarrito</string>
+    <string name="henrysanchez7920_gmail_com">HenrySanchez7920@gmail.com</string>
+    <string name="product_name">Product Name</string>
+    <string name="_10_00_23_00">10:00 - 23:00</string>
+    <string name="_5_0">5.0</string>
+    <string name="descuentos">Descuentos</string>
+    <string name="cena">Cena</string>
+    <string name="title_activity_detailed_daily_meal">DetailedDailyMealActivity</string>
+    <string name="tu_favorita_y_deliciosa_comida_esta_aqui">¡Tu Favorita y Deliciosa Comida Esta Aqui!</string>
+    <string name="ver_mas">Ver Mas</string>
+    <string name="_10_recetas_deliciosas_npara_fin_de_semana">10 Recetas Deliciosas \nPara Fin de Semana</string>
+    <string name="comer_en_el_restuarante">Comer en el restuarante</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="mi_carrito">Mi Carrito</string>
+    <string name="Ubicacion">Ubicación</string>
+    <string name="google_maps_key">AIzaSyA-4fwFB9zN0X-N7cIbWb1MNgS4ILRGGdo</string>
+</resources>

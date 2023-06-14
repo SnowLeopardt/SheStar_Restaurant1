@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.ugb.shestarrestaurant.ui.home.HomeFragment"
+        android:label="@string/Inicio"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_comidadiaria"
+        android:name="com.ugb.shestarrestaurant.ui.dailymeal.DailyMealFragment"
+        android:label="@string/Comida_Diaria"
+        tools:layout="@layout/dayli_meal_fragment" />
+
+    <fragment
+        android:id="@+id/nav_favoritos"
+        android:name="com.ugb.shestarrestaurant.ui.favourite.FavouriteFragment"
+        android:label="@string/Favoritos"
+        tools:layout="@layout/fragment_favourite" />
+    <fragment
+        android:id="@+id/nav_Mi_Carrito"
+        android:name="com.ugb.shestarrestaurant.ui.MyCartFragment"
+        android:label="@string/MiCarrito"
+        tools:layout="@layout/fragment_my_cart" />
+    <activity
+        android:id="@+id/nav_ubicacion"
+        android:name="com.ugb.shestarrestaurant.maps"
+        android:label="activity_maps"
+        tools:layout="@layout/activity_maps" />
+</navigation>
